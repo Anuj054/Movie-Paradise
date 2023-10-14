@@ -1,3 +1,3 @@
 # Movie-Paradise
 Movie Landing page
-author-anuj chaudhary
+author-(anuj chaudhary)
